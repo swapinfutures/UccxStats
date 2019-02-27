@@ -39,12 +39,12 @@ The project comes with a large suite of unit tests and a *MockStats* class that 
 
 The below UCCX REST Endpoints are consumed as a part of this library:
 
-http://{UccxHostOrIp}:9080/realtime/VoiceIAQStats
-http://{UccxHostOrIp}:9080/realtime/ResourceIAQStats
-http://{UccxHostOrIp}:9080/realtime/AgentCSQStats
-http://{UccxHostOrIp}:9080/realtime/VoiceCSQDetailsStats
-http://{UccxHostOrIp}:9080/realtime/ChatQueueStatistics
-http://{UccxHostOrIp}:9080/realtime/EmailQueueStatistics
+http://{UccxHostOrIp}:9080/realtime/VoiceIAQStats  
+http://{UccxHostOrIp}:9080/realtime/ResourceIAQStats  
+http://{UccxHostOrIp}:9080/realtime/AgentCSQStats  
+http://{UccxHostOrIp}:9080/realtime/VoiceCSQDetailsStats  
+http://{UccxHostOrIp}:9080/realtime/ChatQueueStatistics  
+http://{UccxHostOrIp}:9080/realtime/EmailQueueStatistics  
 
 ## Disclaimer
 
