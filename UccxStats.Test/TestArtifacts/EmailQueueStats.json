@@ -1,0 +1,40 @@
+﻿[
+  {
+    "EmailQueueStatistics": {
+      "queueId": 21,
+      "queueName": "FinesseEmail_CSQ",
+      "agentsLoggedIn": 1,
+      "agentsBusy": 1,
+      "agentsAvailable": 1,
+      "agentsReady": 1,
+      "agentsNotReady": 1,
+      "agentsReserved": 1,
+      "contactsTotal": 1,
+      "contactsQueued": 1,
+      "contactsHandled": 1,
+      "contactsAbandoned": 1,
+      "contactsInProcess": 1
+    },
+    "id": "FinesseEmail_CSQ",
+    "operation": "UPDATE"
+  },
+  {
+    "EmailQueueStatistics": {
+      "queueId": 21,
+      "queueName": "RecallEmail_CSQ",
+      "agentsLoggedIn": 0,
+      "agentsBusy": 0,
+      "agentsAvailable": 0,
+      "agentsReady": 0,
+      "agentsNotReady": 0,
+      "agentsReserved": 0,
+      "contactsTotal": 0,
+      "contactsQueued": 0,
+      "contactsHandled": 0,
+      "contactsAbandoned": 0,
+      "contactsInProcess": 0
+    },
+    "id": "RecallEmail_CSQ",
+    "operation": "UPDATE"
+  }
+]

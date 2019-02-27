@@ -1,0 +1,59 @@
+﻿[
+  {
+    "ChatQueueStatistics": {
+      "queueId": 27,
+      "queueName": "Repairs",
+      "agentsLoggedIn": 1,
+      "agentsBusy": 1,
+      "agentsAvailable": 1,
+      "agentsReady": 1,
+      "agentsNotReady": 1,
+      "agentsReserved": 1,
+      "contactsTotal": 1,
+      "contactsQueued": 1,
+      "contactsHandled": 1,
+      "contactsAbandoned": 1,
+      "contactsInProcess": 1
+    },
+    "id": "Repairs",
+    "operation": "UPDATE"
+  },
+  {
+    "ChatQueueStatistics": {
+      "queueId": 1,
+      "queueName": "Chat Recall",
+      "agentsLoggedIn": 0,
+      "agentsBusy": 0,
+      "agentsAvailable": 0,
+      "agentsReady": 0,
+      "agentsNotReady": 0,
+      "agentsReserved": 0,
+      "contactsTotal": 0,
+      "contactsQueued": 0,
+      "contactsHandled": 0,
+      "contactsAbandoned": 0,
+      "contactsInProcess": 0
+    },
+    "id": "Chat Recall",
+    "operation": "UPDATE"
+  },
+  {
+    "ChatQueueStatistics": {
+      "queueId": 3,
+      "queueName": "Chat",
+      "agentsLoggedIn": 0,
+      "agentsBusy": 0,
+      "agentsAvailable": 0,
+      "agentsReady": 0,
+      "agentsNotReady": 0,
+      "agentsReserved": 0,
+      "contactsTotal": 0,
+      "contactsQueued": 0,
+      "contactsHandled": 0,
+      "contactsAbandoned": 0,
+      "contactsInProcess": 0
+    },
+    "id": "Chat",
+    "operation": "UPDATE"
+  }
+]

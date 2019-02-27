@@ -1,0 +1,194 @@
+﻿[
+  {
+    "id": "zbryan",
+    "operation": "UPDATE",
+    "VoiceCSQDetailsStats": {
+      "agentId": "zbryan",
+      "agentName": "Zak Bryan",
+      "agentState": "Not Ready",
+      "skillGroup": "SG1",
+      "agentStateDuration": 12608,
+      "reason": "Training",
+      "AgentVoiceCSQNames": [
+        {
+          "agentVoiceCSQName": "Spare Parts"
+        },
+        {
+          "agentVoiceCSQName": "Special Offers"
+        }
+      ]
+    }
+  },
+    {
+        "id": "sbennett",
+        "operation": "UPDATE",
+        "VoiceCSQDetailsStats": {
+            "agentId": "sbennett",
+            "agentName": "Scarlett Bennett",
+            "agentState": "Ready",
+            "skillGroup": "",
+            "agentStateDuration": 40455,
+            "reason": "",
+            "AgentVoiceCSQNames": [
+                {
+                    "agentVoiceCSQName": "Faults And Returns"
+                },
+                {
+                    "agentVoiceCSQName": "Pending Order Queries"
+                },
+                {
+                    "agentVoiceCSQName": "Special Offers"
+                }
+            ]
+        }
+    },
+    {
+        "id": "mmyers",
+        "operation": "UPDATE",
+        "VoiceCSQDetailsStats": {
+            "agentId": "mmyers",
+            "agentName": "Madison Myers",
+            "agentState": "Ready",
+            "skillGroup": "",
+            "agentStateDuration": 134781,
+            "reason": "",
+            "AgentVoiceCSQNames": [
+                {
+                    "agentVoiceCSQName": "Payments"
+                },
+                {
+                    "agentVoiceCSQName": "Special Offers"
+                }
+            ]
+        }
+    },
+    {
+        "id": "ewarner",
+        "operation": "UPDATE",
+        "VoiceCSQDetailsStats": {
+            "agentId": "ewarner",
+            "agentName": "Ethan Warner",
+            "agentState": "Ready",
+            "skillGroup": "",
+            "agentStateDuration": 71657,
+            "reason": "",
+            "AgentVoiceCSQNames": [
+                {
+                    "agentVoiceCSQName": "Payments"
+                },
+                {
+                    "agentVoiceCSQName": "Faults And Returns"
+                },
+                {
+                    "agentVoiceCSQName": "Special Offers"
+                }
+            ]
+        }
+    },
+    {
+        "id": "lhancock",
+        "operation": "UPDATE",
+        "VoiceCSQDetailsStats": {
+            "agentId": "lhancock",
+            "agentName": "Louis Hancock",
+            "agentState": "Ready",
+            "skillGroup": "",
+            "agentStateDuration": 124585,
+            "reason": "",
+            "AgentVoiceCSQNames": [
+                {
+                    "agentVoiceCSQName": "Payments"
+                },
+                {
+                    "agentVoiceCSQName": "Faults And Returns"
+                },
+                {
+                    "agentVoiceCSQName": "Special Offers"
+                }
+            ]
+        }
+    },
+    {
+        "id": "ewoods",
+        "operation": "UPDATE",
+        "VoiceCSQDetailsStats": {
+            "agentId": "ewoods",
+            "agentName": "Evan Woods",
+            "agentState": "Not Ready",
+            "skillGroup": "",
+            "agentStateDuration": 12171,
+            "reason": "Lunch",
+            "AgentVoiceCSQNames": [
+                {
+                    "agentVoiceCSQName": "Payments"
+                },
+                {
+                    "agentVoiceCSQName": "Special Offers"
+                }
+            ]
+        }
+    },
+    {
+        "id": "jwalker",
+        "operation": "UPDATE",
+        "VoiceCSQDetailsStats": {
+            "agentId": "jwalker",
+            "agentName": "Jacob Walker",
+            "agentState": "Talking ( from CSQ: Special Offers )",
+            "skillGroup": "Special Offers",
+            "agentStateDuration": 60039,
+            "reason": "",
+            "AgentVoiceCSQNames": [
+                {
+                    "agentVoiceCSQName": "Pending Order Queries"
+                },
+                {
+                    "agentVoiceCSQName": "Special Offers"
+                }
+            ]
+        }
+    },
+    {
+        "id": "sgallagher",
+        "operation": "UPDATE",
+        "VoiceCSQDetailsStats": {
+            "agentId": "sgallagher",
+            "agentName": "Sophie Gallagher",
+            "agentState": "Talking ( from CSQ: Pending Order Queries )",
+            "skillGroup": "Pending Order Queries",
+            "agentStateDuration": 61041,
+            "reason": "",
+            "AgentVoiceCSQNames": [
+                {
+                    "agentVoiceCSQName": "Pending Order Queries"
+                },
+                {
+                    "agentVoiceCSQName": "Special Offers"
+                }
+            ]
+        }
+    },
+    {
+        "id": "jwhitehead",
+        "operation": "UPDATE",
+        "VoiceCSQDetailsStats": {
+            "agentId": "jwhitehead",
+            "agentName": "John Whitehead",
+            "agentState": "Work",
+            "skillGroup": "Faults And Returns",
+            "agentStateDuration": 1,
+            "reason": "",
+            "AgentVoiceCSQNames": [
+                {
+                    "agentVoiceCSQName": "Faults And Returns"
+                },
+                {
+                    "agentVoiceCSQName": "Pending Order Queries"
+                },
+                {
+                    "agentVoiceCSQName": "Special Offers"
+                }
+            ]
+        }
+    }
+]

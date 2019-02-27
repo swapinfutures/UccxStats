@@ -1,0 +1,123 @@
+﻿[
+  {
+    "id": "Payments",
+    "operation": "UPDATE",
+    "AgentCSQStats": {
+      "csqName": "Payments",
+      "currentWaitingCalls": 3,
+      "currentOldest": 9500,
+      "AgentIds": [
+        {
+          "agentId": "ewoods"
+        },
+        {
+          "agentId": "lhancock"
+        },
+        {
+          "agentId": "ewarner"
+        },
+        {
+          "agentId": "mmyers"
+        }
+      ]
+    }
+  },
+  {
+    "id": "Pending Order Queries",
+    "operation": "UPDATE",
+    "AgentCSQStats": {
+      "csqName": "Pending Order Queries",
+      "currentWaitingCalls": 0,
+      "currentOldest": 0,
+      "AgentIds": [
+        {
+          "agentId": "jwhitehead"
+        },
+        {
+          "agentId": "sbennett"
+        },
+        {
+          "agentId": "jwalker"
+        },
+        {
+          "agentId": "sgallagher"
+        }
+      ]
+    }
+  },
+  {
+    "id": "Special Offers",
+    "operation": "UPDATE",
+    "AgentCSQStats": {
+      "csqName": "Special Offers",
+      "currentWaitingCalls": 0,
+      "currentOldest": 0,
+      "AgentIds": [
+        {
+          "agentId": "ewoods"
+        },
+        {
+          "agentId": "jwhitehead"
+        },
+        {
+          "agentId": "lhancock"
+        },
+        {
+          "agentId": "zbryan"
+        },
+        {
+          "agentId": "sbennett"
+        },
+        {
+          "agentId": "jwalker"
+        },
+        {
+          "agentId": "sgallagher"
+        },
+        {
+          "agentId": "ewarner"
+        },
+        {
+          "agentId": "mmyers"
+        }
+      ]
+    }
+  },
+  {
+    "id": "Spare Parts",
+    "operation": "UPDATE",
+    "AgentCSQStats": {
+      "csqName": "Spare Parts",
+      "currentWaitingCalls": 1,
+      "currentOldest": 1514662613483,
+      "AgentIds": [
+        {
+          "agentId": "zbryan"
+        }
+      ]
+    }
+  },
+  {
+    "id": "Faults And Returns",
+    "operation": "UPDATE",
+    "AgentCSQStats": {
+      "csqName": "Faults And Returns",
+      "currentWaitingCalls": 0,
+      "currentOldest": 0,
+      "AgentIds": [
+        {
+          "agentId": "jwhitehead"
+        },
+        {
+          "agentId": "lhancock"
+        },
+        {
+          "agentId": "sbennett"
+        },
+        {
+          "agentId": "ewarner"
+        }
+      ]
+    }
+  }
+]
